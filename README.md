@@ -19,7 +19,6 @@ A fast, private coding assistant that runs entirely on-device using:
 - “Can you help me debug this error?”
 - “Translate this Python code into JavaScript”
 
-📄 Project notes: [`coding-copilot/instructions.md`](coding-copilot/instructions.md)
 
 ---
 
@@ -36,8 +35,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on i
 - “What happens if I lose a company laptop?”
 - “How do I report a safety hazard?”
 
-📜 Code: [`chatbot/chatbot.py`](chatbot/chatbot.py)  
-📄 Sample document: [`chatbot/docs/solara_employee_handbook.txt`](chatbot/docs/solara_employee_handbook.txt)
+📄 Sample document: https://doc.clickup.com/9013904302/d/h/8cmagxe-53/ae1ae01503eecf7
 
 ---
 
