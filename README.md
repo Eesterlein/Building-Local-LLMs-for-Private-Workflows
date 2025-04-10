@@ -41,7 +41,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on i
 
 ## 📎 Resources
 
-- 🧾 Full project write-up: [Google Doc](https://docs.google.com/document/d/1cC-siprH2b46xzyXPyNrosrfjkvE-rO7g74NUf38iEc/edit?usp=sharing)
+- [🧾 Full project write-up: Click here](Building%20Local%20LLMs.pdf)
 - 🧪 View-only notebook on Kaggle: [Kaggle: Building Local LLMs](https://www.kaggle.com/code/elissaesterlein/building-local-llms-for-private-workflows)
 
 ---
