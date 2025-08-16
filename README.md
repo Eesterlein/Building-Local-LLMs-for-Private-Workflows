@@ -11,8 +11,8 @@ This repo showcases two fully offline, privacy-first AI projects built using **O
 A fast, private coding assistant that runs entirely on-device using:
 
 -  `DeepSeek-Coder 6.7B` via Ollama
-- ⌨️ Prompted directly through Terminal
-- ⚡ No internet connection or cloud API required
+- ⌨ Prompted directly through Terminal
+-  No internet connection or cloud API required
 
 **Sample Prompts:**
 - “Write a Python function that checks if a number is prime”
@@ -22,7 +22,7 @@ A fast, private coding assistant that runs entirely on-device using:
 
 ---
 
-## 🗂️ Project 2: Internal Company Policy Chatbot
+##  Project 2: Internal Company Policy Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on internal policy docs using:
 
@@ -35,7 +35,7 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on i
 - “What happens if I lose a company laptop?”
 - “How do I report a safety hazard?”
 
-📄 Sample document: https://doc.clickup.com/9013904302/d/h/8cmagxe-53/ae1ae01503eecf7
+ Sample document: https://doc.clickup.com/9013904302/d/h/8cmagxe-53/ae1ae01503eecf7
 
 ---
 
