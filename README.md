@@ -6,11 +6,11 @@ This repo showcases two fully offline, privacy-first AI projects built using **O
 
 ---
 
-## 🚀 Project 1: Private Coding Copilot
+##  Project 1: Private Coding Copilot
 
 A fast, private coding assistant that runs entirely on-device using:
 
-- 🧠 `DeepSeek-Coder 6.7B` via Ollama
+-  `DeepSeek-Coder 6.7B` via Ollama
 - ⌨️ Prompted directly through Terminal
 - ⚡ No internet connection or cloud API required
 
@@ -26,9 +26,9 @@ A fast, private coding assistant that runs entirely on-device using:
 
 A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on internal policy docs using:
 
-- 🧠 Ollama + Mistral for local LLM + embeddings
-- 📚 LlamaIndex for document search
-- 💻 Python CLI for user interaction
+-  Ollama + Mistral for local LLM + embeddings
+-  LlamaIndex for document search
+-  Python CLI for user interaction
 
 **Test Prompts:**
 - “What is the maximum PTO carryover?”
@@ -39,18 +39,18 @@ A Retrieval-Augmented Generation (RAG) chatbot that answers questions based on i
 
 ---
 
-## 📎 Resources
+##  Resources
 
-- [🧾 Full project write-up: Click here](Building%20Local%20LLMs.pdf)
-- 🧪 View-only notebook on Kaggle: [Kaggle: Building Local LLMs](https://www.kaggle.com/code/elissaesterlein/building-local-llms-for-private-workflows)
-
----
-
-⚠️ These projects are designed to run locally. Kaggle or cloud environments do not support Ollama or local model inference.
+- [ Full project write-up: Click here](Building%20Local%20LLMs.pdf)
+-  View-only notebook on Kaggle: [Kaggle: Building Local LLMs](https://www.kaggle.com/code/elissaesterlein/building-local-llms-for-private-workflows)
 
 ---
 
-## 🔧 Requirements
+⚠ These projects are designed to run locally. Kaggle or cloud environments do not support Ollama or local model inference.
+
+---
+
+##  Requirements
 
 ```txt
 ollama
